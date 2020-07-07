@@ -10,3 +10,6 @@
 * [Работа со строками в Go](https://www.digitalocean.com/community/tutorials/an-introduction-to-working-with-strings-in-go)
 * [GRPC](https://habr.com/ru/company/yandex/blog/484068/)
 * [Slices](https://blog.golang.org/slices-intro)
+***
+## Code:
+* [Organization](https://golang.org/doc/code.html)
