@@ -11,6 +11,10 @@
 * [GRPC](https://habr.com/ru/company/yandex/blog/484068/)
 * [Slices](https://blog.golang.org/slices-intro)
 * [Cache ](https://habr.com/ru/company/mailru/blog/510200/)
+* [sync map](https://habr.com/ru/post/338718/)
+* [Планировщик в Go](https://habr.com/ru/post/489862/)
+* [Mutex](https://habr.com/ru/post/271789/)
+* [Concurency](https://habr.com/ru/company/avito/blog/466495/)
 ***
 ## Code:
 * [Organization](https://golang.org/doc/code.html)
