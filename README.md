@@ -15,6 +15,7 @@
 * [Планировщик в Go](https://habr.com/ru/post/489862/)
 * [Mutex](https://habr.com/ru/post/271789/)
 * [Concurency](https://habr.com/ru/company/avito/blog/466495/)
+* [Go: хороший, плохой, злой](https://habr.com/ru/company/mailru/blog/353790/)
 ***
 ## Code:
 * [Organization](https://golang.org/doc/code.html)
