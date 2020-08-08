@@ -17,6 +17,7 @@
 * [Concurency](https://habr.com/ru/company/avito/blog/466495/)
 * [Go: хороший, плохой, злой](https://habr.com/ru/company/mailru/blog/353790/)
 * [LRU](https://dotzero.blog/golang-lru/)
+* [Специфические вопросы производительности](https://habr.com/ru/company/oleg-bunin/blog/461291/)
 ***
 ## Code:
 * [Organization](https://golang.org/doc/code.html)
