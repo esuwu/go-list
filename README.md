@@ -20,6 +20,7 @@
 * [Специфические вопросы производительности](https://habr.com/ru/company/oleg-bunin/blog/461291/)
 * [Особенности работы с Postgres в Go](https://www.youtube.com/watch?v=Uojy57I-xP0)
 * [Контексты в Go](https://habr.com/ru/company/nixys/blog/461723/)
+https://habr.com/ru/company/avito/blog/525294/?source=tproger_tg
 ***
 ## Code:
 * [Organization](https://golang.org/doc/code.html)
